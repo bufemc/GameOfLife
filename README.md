@@ -11,6 +11,11 @@ https://csdb.dk/release/?id=104384&show=summary
 
 ### 1995 version by NyLoN (old handle) in 1995:
 http://www.airport1.de/life.htm (currently missing)
-- 5,25" disk to be found, to be extracted and code to be added (was code ever saved to a backup harddisk?)
-- 13 pages of notes to be found and to be added (formerly on kuhlimuh.com)
+- 5,25" disk to be found, to be extracted and code to be added
+    - was code ever saved to a (e.g. backup) harddisk?
+    - maybe available as emulator disk file? (.d64, .t64)
+    - Crossbow/Crest might have a copy
+- 13 pages of notes 
+    - re-found via http://web.archive.org/web/20040609070923/http://www.handysms.de/life/lifedoc1.htm
+    - notes even say the project was started 1993 (age 16?!)
 - additional notes to be found and to be added (DIN A4)
