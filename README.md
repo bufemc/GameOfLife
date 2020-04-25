@@ -9,8 +9,8 @@ Conway's Game of Life - (very) old and new implementations. In memory of Conway.
 https://csdb.dk/release/?id=104384&show=summary
 - Conway's Game of Life in 256 bytes. Double buffering, custom font and Boulder Dash-esque music
 
-### 1995 version by NyLoN (old handle) in 1995:
-http://www.airport1.de/life.htm (currently missing)
+### 1995 version by NyLoN (old handle), actually started 1993:
+http://www.airport1.de/life.htm (currently missing here)
 - 5,25" disk to be found, to be extracted and code to be added
     - was code ever saved to a (e.g. backup) harddisk?
     - maybe available as emulator disk file? (.d64, .t64)
@@ -19,3 +19,12 @@ http://www.airport1.de/life.htm (currently missing)
     - re-found via http://web.archive.org/web/20040609070923/http://www.handysms.de/life/lifedoc1.htm
     - notes even say the project was started 1993 (age 16?!)
 - additional notes to be found and to be added (DIN A4)
+
+## PC platform
+
+### Simple version with matplotlib
+- very few lines of code
+- copy grid first, then update changed cells only
+
+### Coroutines version with matplotlib
+- not released yet (currently missing here)
